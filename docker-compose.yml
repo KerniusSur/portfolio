@@ -1,0 +1,22 @@
+# services:
+# Fairwear 
+  # fairwear-frontend:
+  # fairwear-backend:
+  # fairwear-db:
+
+# Graffinity
+  # graffinity-frontend:
+  # graffinity-backend:
+  # graffinity-db:
+
+# Hivenote
+  # hivenote-frontend:
+  # hivenote-backend:
+  # hivenote-db:
+
+# Other
+  # inbest-homework-task:
+
+# Portfolio
+  # portfolio:
+
